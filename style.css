@@ -70,11 +70,8 @@ h1{
 
 h2{
     font-size: 68px;
-    font-family: 'Great Vibes', cursive;
+    font-family: Georgia, serif;
     font-weight: 400;
-    margin-top: 10px;
-    margin-bottom: -8px;
-    line-height: 0.9;
 }
 
 .cake-wrap{
@@ -401,11 +398,11 @@ canvas {
     margin: 0 0 2px;
   }
 
-  h2 {
-    font-size: 58px;
-    line-height: 0.9;
-    margin: 0 0 12px;
-  }
+  h2{
+    font-size: 68px;
+    font-family: Georgia, serif;
+    font-weight: 400;
+}
 
   .screen .small-title {
     font-size: 11px;
